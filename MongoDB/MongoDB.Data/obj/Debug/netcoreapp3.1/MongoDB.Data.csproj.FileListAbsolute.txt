@@ -1,0 +1,9 @@
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\bin\Debug\netcoreapp3.1\MongoDB.Data.deps.json
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\bin\Debug\netcoreapp3.1\MongoDB.Data.dll
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\bin\Debug\netcoreapp3.1\MongoDB.Data.pdb
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.csprojAssemblyReference.cache
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.AssemblyInfoInputs.cache
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.AssemblyInfo.cs
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.csproj.CoreCompileInputs.cache
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.dll
+D:\University\SoftUni\professionalModules\C#\C# DataBase\Entity Framework\NoSql\MongoDBNetCore\MongoDB.Data\obj\Debug\netcoreapp3.1\MongoDB.Data.pdb
